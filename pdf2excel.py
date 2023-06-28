@@ -41,8 +41,8 @@ def report_fields(report):
     return(new_data)
 
 #Extract text from PDF
-file_path = 'https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf'
-excel_path = "https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx"
+file_path = 'https://github.com/arkasingh/financial-report-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf'
+excel_path = "https://github.com/arkasingh/financial-report-summary/blob/main/Data/output.xlsx"
 mypdf = pdfplumber.open(file_path)
 
 reports = []
