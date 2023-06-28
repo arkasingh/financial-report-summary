@@ -9,7 +9,7 @@ with financial reports.
 
 ### Task 1 - Extracting fields from the unorganized pdf input data
 
-The [!*Regular Expression*](https://docs.python.org/3/library/re.html) module is utilized in the [*pdf2excel.py*](https://github.com/arkasingh/text-summary/blob/main/pdf2excel.py) to extract the relevant data from the [*Sample Financial Reports Data.pdf*](https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf) file and outputs an Excel file [*output.xlsx*](https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx) with all the information organized.
+The [*Regular Expression*](https://docs.python.org/3/library/re.html) module is utilized in the [*pdf2excel.py*](https://github.com/arkasingh/text-summary/blob/main/pdf2excel.py) to extract the relevant data from the [*Sample Financial Reports Data.pdf*](https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf) file and outputs an Excel file [*output.xlsx*](https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx) with all the information organized.
 
 ### Task 2 - Summarizing Investigation Details
 
