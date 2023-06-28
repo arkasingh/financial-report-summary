@@ -3,7 +3,7 @@ import pandas as pd
 from transformers import pipeline
 from openpyxl import load_workbook
 
-excel_path = "https://github.com/arkasingh/financial-report-summary/blob/main/Data/output.xlsx"
+excel_path = "Data/output.xlsx"
 df = pd.read_excel(excel_path)
 
 summary = []
