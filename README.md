@@ -6,5 +6,6 @@ We use the Investigation Details field and feed it into our language model to ge
 We have a [*Sample Financial Reports Data.pdf*](https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf)
 with financial reports.
 
-pdf2excel.py creates Excel file output.xlsx
-summarize.py takes the Excel file as input and modifies it to add a Report Summary.
+[*pdf2excel.py*](https://github.com/arkasingh/text-summary/blob/main/pdf2excel.py)creates Excel file [*output.xlsx*](https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx)
+
+[*summarize.py*](https://github.com/arkasingh/text-summary/blob/main/summarize.py) takes the Excel file as input and modifies it to add a Report Summary.
