@@ -9,8 +9,7 @@ with financial reports.
 
 ### Task 1 - Extracting fields from the unorganized pdf input data
 
-The [![coderpad-regex-the-complete-guide](https://github.com/arkasingh/financial-report-summary/assets/110922376/5bb8e2b0-701c-4b4a-85ff-262f290759c6)
-*Regular Expression*](https://docs.python.org/3/library/re.html) module is utilized in the [*pdf2excel.py*](https://github.com/arkasingh/text-summary/blob/main/pdf2excel.py) to extract the relevant data from the [*Sample Financial Reports Data.pdf*](https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf) file and outputs an Excel file [*output.xlsx*](https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx) with all the information organized.
+The [!*Regular Expression*](https://docs.python.org/3/library/re.html) module is utilized in the [*pdf2excel.py*](https://github.com/arkasingh/text-summary/blob/main/pdf2excel.py) to extract the relevant data from the [*Sample Financial Reports Data.pdf*](https://github.com/arkasingh/text-summary/blob/main/Data/Sample_Financial_Reports_Data.pdf) file and outputs an Excel file [*output.xlsx*](https://github.com/arkasingh/text-summary/blob/main/Data/output.xlsx) with all the information organized.
 
 ### Task 2 - Summarizing Investigation Details
 
